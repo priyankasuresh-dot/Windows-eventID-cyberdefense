@@ -24,6 +24,6 @@ It is designed to help *SOC analysts, penetration testers, and security research
 1. Download the report or reference table.  
 2. Use Event IDs as part of log monitoring rules.  
 
-## 🙌 Contribution  
+##  Contribution  
 Contributions are welcome! If you have more Event IDs or detection use cases, feel free to open a pull request.  
 
